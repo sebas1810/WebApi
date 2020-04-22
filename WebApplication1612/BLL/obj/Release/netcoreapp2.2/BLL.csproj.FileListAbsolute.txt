@@ -1,0 +1,14 @@
+C:\Users\anotherOne\source\repos\WebApplication1612\BLL\bin\Release\netcoreapp2.2\BLL.deps.json
+C:\Users\anotherOne\source\repos\WebApplication1612\BLL\bin\Release\netcoreapp2.2\BLL.dll
+C:\Users\anotherOne\source\repos\WebApplication1612\BLL\bin\Release\netcoreapp2.2\BLL.pdb
+C:\Users\anotherOne\source\repos\WebApplication1612\BLL\bin\Release\netcoreapp2.2\DAL.dll
+C:\Users\anotherOne\source\repos\WebApplication1612\BLL\bin\Release\netcoreapp2.2\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\anotherOne\source\repos\WebApplication1612\BLL\bin\Release\netcoreapp2.2\DAL.pdb
+C:\Users\anotherOne\source\repos\WebApplication1612\BLL\bin\Release\netcoreapp2.2\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\anotherOne\source\repos\WebApplication1612\BLL\obj\Release\netcoreapp2.2\BLL.csprojAssemblyReference.cache
+C:\Users\anotherOne\source\repos\WebApplication1612\BLL\obj\Release\netcoreapp2.2\BLL.csproj.CoreCompileInputs.cache
+C:\Users\anotherOne\source\repos\WebApplication1612\BLL\obj\Release\netcoreapp2.2\BLL.AssemblyInfoInputs.cache
+C:\Users\anotherOne\source\repos\WebApplication1612\BLL\obj\Release\netcoreapp2.2\BLL.AssemblyInfo.cs
+C:\Users\anotherOne\source\repos\WebApplication1612\BLL\obj\Release\netcoreapp2.2\BLL.csproj.CopyComplete
+C:\Users\anotherOne\source\repos\WebApplication1612\BLL\obj\Release\netcoreapp2.2\BLL.dll
+C:\Users\anotherOne\source\repos\WebApplication1612\BLL\obj\Release\netcoreapp2.2\BLL.pdb

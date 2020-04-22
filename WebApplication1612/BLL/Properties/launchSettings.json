@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "BLL": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "SecretKey": "secret_keySarasa$$!1"
+      }
+    }
+  }
+}
