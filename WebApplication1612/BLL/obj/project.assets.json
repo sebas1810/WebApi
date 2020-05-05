@@ -7942,11 +7942,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\anotherOne\\source\\repos\\WebApplication1612\\BLL\\BLL.csproj",
+      "projectUniqueName": "C:\\Users\\anotherOne\\Documents\\GitHub\\WebApiApp\\WebApplication1612\\BLL\\BLL.csproj",
       "projectName": "BLL",
-      "projectPath": "C:\\Users\\anotherOne\\source\\repos\\WebApplication1612\\BLL\\BLL.csproj",
+      "projectPath": "C:\\Users\\anotherOne\\Documents\\GitHub\\WebApiApp\\WebApplication1612\\BLL\\BLL.csproj",
       "packagesPath": "C:\\Users\\anotherOne\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\anotherOne\\source\\repos\\WebApplication1612\\BLL\\obj\\",
+      "outputPath": "C:\\Users\\anotherOne\\Documents\\GitHub\\WebApiApp\\WebApplication1612\\BLL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -7967,8 +7967,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\anotherOne\\source\\repos\\WebApplication1612\\DAL\\DAL.csproj": {
-              "projectPath": "C:\\Users\\anotherOne\\source\\repos\\WebApplication1612\\DAL\\DAL.csproj"
+            "C:\\Users\\anotherOne\\Documents\\GitHub\\WebApiApp\\WebApplication1612\\DAL\\DAL.csproj": {
+              "projectPath": "C:\\Users\\anotherOne\\Documents\\GitHub\\WebApiApp\\WebApplication1612\\DAL\\DAL.csproj"
             }
           }
         }
